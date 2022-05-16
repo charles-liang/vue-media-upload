@@ -1,6 +1,6 @@
 {
   "name": "vue-media-upload",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "upload multiple images with preview",
   "main": "index.js",
   "scripts": {
