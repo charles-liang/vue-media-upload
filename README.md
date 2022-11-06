@@ -13,8 +13,8 @@
 
 # 👀 Demo
 
-- [Fully featured demo](https://github.com/simmodev/media-upload-demo)
-- [Full tutorial](https://dev.to/simodev/how-to-upload-multiple-images-with-preview-using-laravel-and-vue-282j)
+- [Fully featured demo](https://github.com/saimo/media-upload-demo)
+- [Full tutorial](https://dev.to/saimo/how-to-upload-multiple-images-with-preview-using-laravel-and-vue-282j)
 
 ![vue-media-upload - multiple image upload with preview ](/static/vue-media-upload.PNG)
 
