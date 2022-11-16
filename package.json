@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simmodev/vue-media-upload.git"
+    "url": "git+https://github.com/saimow/vue-media-upload.git"
   },
   "keywords": [
     "laravel",
@@ -21,10 +21,10 @@
     "vue-media-upload",
     "dropzone"
   ],
-  "author": "Simodev",
+  "author": "Saimo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/simmodev/vue-media-upload/issues"
+    "url": "https://github.com/saimow/vue-media-upload/issues"
   },
-  "homepage": "https://github.com/simmodev/vue-media-upload#readme"
+  "homepage": "https://github.com/saimow/vue-media-upload#readme"
 }

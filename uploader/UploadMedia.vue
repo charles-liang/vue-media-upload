@@ -1,7 +1,5 @@
 <template>
-
     <div>
-        
         <div class="">
             <div class="gallery width-100" :class="error?'red-border':''">
                 <Loader 
@@ -39,8 +37,8 @@
                             <svg 
                                 class='times-icon' 
                                 xmlns="http://www.w3.org/2000/svg" 
-                                width="0.8em" 
-                                height="0.8em" 
+                                width="0.65em" 
+                                height="0.65em"
                                 preserveAspectRatio="xMidYMid meet" 
                                 viewBox="0 0 352 512">
                                     <path 
@@ -170,7 +168,7 @@
 }
 .close-btn{
     background: none !important;
-	color:red !important;
+	color:white !important;
 	border: none !important;
 	padding: 0px !important;
     margin:0px !important;
@@ -186,6 +184,7 @@
     font-size: 3rem !important;
     padding: 0px !important;
     margin:0px !important;
+    filter: drop-shadow(0px 0px 1px black);
 }
 .custum-icon{
     color: #00afca !important;
@@ -198,7 +197,7 @@
     color: #29818f !important;
 }
 .close-btn:hover{
-    color: rgb(190, 39, 39) !important;
+    color: red !important;
 }
 
 
